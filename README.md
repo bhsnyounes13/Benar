@@ -1,73 +1,67 @@
-# Welcome to your Lovable project
+AdConnect 🚀
 
-## Project info
+A freelance marketplace connecting Clients, Designers, and Media Buyers for advertising projects.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+AdConnect helps businesses launch ad campaigns and creative projects while enabling freelancers to find work, collaborate, and get paid securely — all in one platform.
 
-## How can I edit this code?
+🎯 For Clients (Hiring)
 
-There are several ways of editing your application.
+Register as a Client and verify your email
 
-**Use Lovable**
+Create a Project:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+📊 Ad Campaign (Meta, Google, TikTok ads)
 
-Changes made via Lovable will be committed automatically to this repo.
+🎨 Design & Visualization (banners, videos, creatives)
 
-**Use your preferred IDE**
+Browse & hire freelancers using filters (skills, platforms)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Review proposals and accept the best match
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Contract auto-created on acceptance
 
-Follow these steps:
+Collaborate via messaging and track progress
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Release payment securely from escrow
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🎨 For Designers / 📊 Media Buyers (Freelancing)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Register as a Designer or Media Buyer
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Complete your profile (bio, skills, platforms)
+
+Browse available projects
+
+Submit proposals (price, timeline, pitch)
+
+Work on contracts and deliver results
+
+Get paid securely and track earnings in your wallet
+
+💡 Key Features
+
+🔒 Escrow payments for secure transactions
+
+💬 Real-time contract messaging
+
+⭐ Verified reviews & reputation system
+
+📊 Role-based dashboards for clients and freelancers
+
+📌 Goal
+
+Make hiring and freelancing for digital advertising simple, secure, and efficient.
+
+# Clone repository
+git clone https://github.com/your-username/adconnect.git
+
+# Enter project
+cd adconnect
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+http://localhost:8080
